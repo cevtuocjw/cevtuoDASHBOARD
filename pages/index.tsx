@@ -20,7 +20,6 @@ import {
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub';
 import { GiHealthPotion } from '@react-icons/all-files/gi/GiHealthPotion';
 import { ImSphere } from '@react-icons/all-files/im/ImSphere';
-import { AiFillWechat } from "@react-icons/ai/AiFillWechat";
 
 const IndexPage = () => {
   return (
@@ -89,7 +88,7 @@ const IndexPage = () => {
             variant='outline'
             boxShadow='md'
             _focus={{ outline: 'none' }}
-            leftIcon={<AiFillWechat />}
+            leftIcon={<ImSphere />}
           >
             CEVTUO wechat
           </Button>
