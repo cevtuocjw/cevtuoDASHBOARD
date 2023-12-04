@@ -20,7 +20,7 @@ import {
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub';
 import { GiHealthPotion } from '@react-icons/all-files/gi/GiHealthPotion';
 import { ImSphere } from '@react-icons/all-files/im/ImSphere';
-import { AiFillWechat } from "react-icons/ai";
+import { AiFillWechat } from "@react-icons/ai/AiFillWechat";
 
 const IndexPage = () => {
   return (
