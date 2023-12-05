@@ -71,7 +71,7 @@ const IndexPage = () => {
         </Link>
         <Link href='https://lite.cevtuogrnd.com' isExternal>
           <Button
-            colorScheme='gray'
+            colorScheme='black'
             size='lg'
             variant='outline'
             boxShadow='md'
